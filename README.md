@@ -1,11 +1,9 @@
 # Nurse-Net
-​      
+ 
 
-​          <img src="resource/demo2_disrupting _intravenous_drip.gif" alt="demo2_disrupting _intravenous_drip" style="zoom:50%;" />     <img src="resource/demo3_fidgeting.gif" alt="demo3_fidgeting" style="zoom:50%;" />     <img src="resource/demo4_getting_out_of_bed.gif" alt="demo4_getting_out_of_bed" style="zoom:50%;" />     <img src="resource/demo5_lifting_the_quilt.gif" alt="demo5_lifting_the_quilt" style="zoom:50%;" />
-
-​          <img src="resource/demo6_shaking_bed.gif" alt="demo6_shaking_bed" style="zoom:50%;" />     <img src="resource/demo7_playing_mobile_phone.gif" alt="demo7_playing_mobile_phone" style="zoom:50%;" />     <img src="resource/demo8_sitting_up_from_bed.gif" alt="demo8_sitting_up_from_bed" style="zoom:50%;" />     <img src="resource/demo9_strugging.gif" alt="demo9_strugging" style="zoom:50%;" />
-
-
+| <img src="resource/demo2.gif" alt="demo2" style="zoom:50%;" /> | <img src="resource/demo3.gif" alt="demo3" style="zoom: 50%;" /> | <img src="resource/demo4.gif" alt="demo4" style="zoom:50%;" /> | <img src="resource/demo5.gif" alt="demo5" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="resource/demo6.gif" alt="demo6" style="zoom:50%;" /> | <img src="resource/demo7.gif" alt="demo7" style="zoom:50%;" /> | <img src="resource/demo8.gif" alt="demo8" style="zoom:50%;" /> | <img src="resource/demo9.gif" alt="demo9" style="zoom:50%;" /> |
 
 The repo contains the ICUAction-8 dataset proposed in Nerse-Net and the corresponding demo clips. 
 
