@@ -1,6 +1,6 @@
 # Nurse-Net
- 
 
+Below is the gif demo, if it does not appear, please refresh the current page.
 | <img src="resource/demo2.gif" alt="demo2" style="zoom:50%;" /> | <img src="resource/demo3.gif" alt="demo3" style="zoom: 50%;" /> | <img src="resource/demo4.gif" alt="demo4" style="zoom:50%;" /> | <img src="resource/demo5.gif" alt="demo5" style="zoom:50%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <img src="resource/demo6.gif" alt="demo6" style="zoom:50%;" /> | <img src="resource/demo7.gif" alt="demo7" style="zoom:50%;" /> | <img src="resource/demo8.gif" alt="demo8" style="zoom:50%;" /> | <img src="resource/demo9.gif" alt="demo9" style="zoom:50%;" /> |
